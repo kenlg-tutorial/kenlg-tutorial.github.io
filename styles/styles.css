@@ -89,11 +89,11 @@ body{
     h1{
     background-image:url(../images/h1_img.gif);
     background-repeat:no-repeat;
-    text-indent:42px;
+    text-indent:50px;
     font-size:28px;
     font-family:Arial, Helvetica, sans-serif;
     font-weight:bold;
-    line-height:1.5em;
+    line-height:0.9em;
     margin: 18px 0px 14px 0px;
     color:#DEB739;
     }
